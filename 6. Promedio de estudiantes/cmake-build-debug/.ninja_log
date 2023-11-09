@@ -1,0 +1,6 @@
+# ninja log v5
+9	797	7212334433080894	build.ninja	61853763d09dc0b8
+1	1868	7212334491737665	CMakeFiles/promedio_de_estudiantes.dir/main.cpp.obj	576885f3e1a9b756
+1872	2266	7212334495664165	promedio_de_estudiantes.exe	74d4c02a463883ad
+82	1940	7212334919198184	CMakeFiles/promedio_de_estudiantes.dir/main.cpp.obj	576885f3e1a9b756
+1941	2317	7212334922909602	promedio_de_estudiantes.exe	74d4c02a463883ad
