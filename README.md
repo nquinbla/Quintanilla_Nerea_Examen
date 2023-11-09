@@ -3,36 +3,40 @@ Examen de Nerea Quintanilla Blanco
 
 https://github.com/nquinbla/Quintanilla_Nerea_Examen.git
 
-A continuación se encunetran las soluciones y/o el lugar donde se encuentran las carpetas, junto a la señalizacion de estas. 
+Programas que se han utilizado para la realización del examen:
+* Clion
+* GitHubDesktop
+* UAXCampus
+* GitHub Copilot
 
+A continuación se encuentran las soluciones y/o el lugar donde se encuentran las carpetas, junto a la señalizacion de estas. 
 
 [PARTE 1] PREGUNTAS DE OPCIÓN MÚLTIPLE
 1) -> d) Todas las anteriores
 2) -> b) Un archivo que ayuda a gestionar y automatizar la compilación de proyectos de programación
 3) -> b) Variables que almacenan la dirección de otra variable
 
-[PARTE 2] PROBLEMAS DE CODIFICACIÓN. Aquí estan señalizadas el lugar donde se encuentra cada ejercicio con una pequeña explicación en cada uno de estos:
+[PARTE 2] PROBLEMAS DE CODIFICACIÓN. Aquí estan señalizadas el lugar donde se encuentra cada ejercicio con una pequeña explicación en cada uno de estos. Todos los ejercicios se encuetran en la carpeta correspondiente, las cuales se denominan igual al de cada apartado. Todas tienen dentro un archivo CMakeList para ejecutarlas por un nombre en específico. Además dentro de cada programa viene señalizado por pasos lo que he realizado.
 
-1. Operaciones básicas
+1. Operaciones básicas, un programa que pregunta por dos numeros enteros al usuario y devuelve la suma de estos.
 
-2. Gestión de estudiantes
+2. Gestión de estudiantes, un programa que contiene la clase Estudiante con sus diferentes propiedades junto a la funcion miembro que imprime todas estas.
 
-3. Optimización de memoria
+3. Optimización de memoria, un programa que tiene una funcion la cual utiliza punteros para camiar las variables. Estas son preguntadas al usuario antes de ser cambiadas.
 
-4. Manejo de excepciones
+4. Manejo de excepciones, un programa que lleva un codigo que demuestre el uso de los bloques try, catch y throw para manejar una excepción.
 
-5. Registro de materias
+5. Registro de materias, ampliamos el ejercicio 2 y añadimos una lista o vector de materias registradas junto a las funciones miembro que permiten registrar e imprimir esas materias.
 
-6. Promedio de estudiantes
+6. Promedio de estudiantes, programa que contiene una función que recibe una lista de calificaciones del 1-10 (recibe 5 califiaciones) y te devuelve el promedio de estas.
 
-7. Manejo de ausencias
+7. Manejo de ausencias, un programa donde creamos la clase para registrar la asistencia, donde s enos muestra la fecha, el estado y una funcion miembro que nos da como resultado la imprimacion de estas.
 
-8. Filtrado de estudiantes por grado
+8. Filtrado de estudiantes por grado, un programa con una funcion que recibe una lista de estudiantes y sus grados donde buscamos uno de los gardos (1-5) y nos da los estudiantes enconrados en dicho grado.
 
-9. Gestion de excepciones personalizadas
+9. Gestion de excepciones personalizadas, un programa junto a un codigo que demuestra una excepcion personalizada incluyendo los bloques try y catch para manejar la excepcion mencionada.
 
-10. Registro de profesores
-
+10. Registro de profesores, un programa con una clase para profesor la cual contiene caracteristicas como su nombre, edad y años de experiencia. Tambien se añade una funcion miembro que imprima todas estas propiedades  
 
 
 [PARTE 3] PREGUNTAS DE DESARROLLO
