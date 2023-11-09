@@ -59,7 +59,7 @@ int main() { // Función principal
         estudiante.listar_materias(); // Listamos las materias registradas
 
     } catch (const MateriaYaRegistradaException& ex) { // Manejamos la excepción
-        cerr << "Error: La materia '" << ex.getMateria() << "' ya ha sido registrada." << endl; 
+        cerr << "Error: La materia '" << ex.getMateria() << "' ya ha sido registrada." << endl;
 
     }
 
